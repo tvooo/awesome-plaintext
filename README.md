@@ -23,3 +23,7 @@
 - ledger
 - hledger
 - beancount
+
+## Music
+
+- [textbeat](https://github.com/flipcoder/textbeat) - A music sequencer and midi shell, with vim playback
