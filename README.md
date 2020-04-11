@@ -27,3 +27,4 @@
 ## Music
 
 - [textbeat](https://github.com/flipcoder/textbeat) - A music sequencer and midi shell, with vim playback
+- [bliplay](https://github.com/detomon/bliplay) - A chiptune player
